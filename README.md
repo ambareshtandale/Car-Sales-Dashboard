@@ -25,5 +25,11 @@ The central visualization incorporates a vehicle image to make the dashboard int
 
 The dashboard also includes a monthly trend analysis shown through bar graphs from January to December, enabling users to identify seasonality, peak months, and performance dips. Additionally, year-based filters (2019–2023) allow for historical comparisons, while navigation tabs (Car 1, Car 2, Car 3) enable users to drill down and compare multiple car models individually.
 
-Overall, this project demonstrates strong skills in data cleaning, modeling, DAX calculations, and visualization design within Power BI. It emphasizes the importance of combining clear KPIs with interactive filters and engaging visuals to create a user-friendly decision-support system. This dashboard can be extended further by integrating customer demographics, regional sales data, or predictive analytics for future sales forecasting, making it a valuable tool for strategic business decisions.
+Overall, this project demonstrates strong skills in data cleaning, modeling, DAX calculations, and visualization design within Power BI. It emphasizes the importance of combining clear KPIs with interactive filters and engaging visuals to create a user-friendly decision-support system. This dashboard can be extended further by integrating customer demographics, regional sales data, or predictive analytics
+
+Screenshots / Demos
+Show what that dashboard looks like : 
+Exampple :
+
+for future sales forecasting, making it a valuable tool for strategic business decisions.
 
