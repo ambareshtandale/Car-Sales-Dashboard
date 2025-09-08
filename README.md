@@ -28,8 +28,8 @@ The dashboard also includes a monthly trend analysis shown through bar graphs fr
 Overall, this project demonstrates strong skills in data cleaning, modeling, DAX calculations, and visualization design within Power BI. It emphasizes the importance of combining clear KPIs with interactive filters and engaging visuals to create a user-friendly decision-support system. This dashboard can be extended further by integrating customer demographics, regional sales data, or predictive analytics
 
 Screenshots / Demos
-Show what that dashboard looks like : 
-Exampple :
+Show what that dashboard looks like : https://github.com/ambareshtandale/Car-Sales-Dashboard/blob/main/Screenshot%202025-09-08%20154148.png
+Exampple :https://github.com/ambareshtandale/Car-Sales-Dashboard/blob/main/Screenshot%202025-09-08%20154148.png
 
 for future sales forecasting, making it a valuable tool for strategic business decisions.
 
