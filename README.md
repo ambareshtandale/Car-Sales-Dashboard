@@ -1,5 +1,5 @@
 # Car-Sales-Dashboard
-[3:20 PM, 9/8/2025] Ambu: This dashboard is a Car Sales Performance Dashboard created in Power BI (or similar tool). It is designed to track and visualize key sales insights for automobiles. Here’s a brief explanation of what it shows:
+This dashboard is a Car Sales Performance Dashboard created in Power BI (or similar tool). It is designed to track and visualize key sales insights for automobiles. Here’s a brief explanation of what it shows:
 
 🔹 Top KPIs (Key Metrics)
 746K → Total number of sales.
